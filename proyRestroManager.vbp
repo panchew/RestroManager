@@ -1,5 +1,6 @@
 Type=Exe
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\..\Windows\system32\stdole2.tlb#OLE Automation
+Object={13677477-3E5D-4A74-8C0C-C63F18FA06EF}#1.0#0; vbsini.ocx
 Startup="Sub Main"
 HelpFile=""
 Title="Restro Manager"
