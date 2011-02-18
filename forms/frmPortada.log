@@ -1,0 +1,6 @@
+Línea 20: la propiedad Icon de frmMenuOpciones tenía una referencia a archivo no válida.
+Línea 46: la propiedad Picture de imgReportes tenía una referencia a archivo no válida.
+Línea 54: la propiedad Picture de imgVentas tenía una referencia a archivo no válida.
+Línea 62: la propiedad Picture de imgAlmacen tenía una referencia a archivo no válida.
+Línea 130: la propiedad Picture de imgAdministracion tenía una referencia a archivo no válida.
+Línea 138: la propiedad Picture de imgSalir tenía una referencia a archivo no válida.
